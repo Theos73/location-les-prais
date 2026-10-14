@@ -1,33 +1,44 @@
 [
-
   {
-
-    "semaine": "20/12/2026 - 27/12/2026",
-
-    "prix": 750,
-
+    "semaine": "12/12/2026 - 19/12/2026",
+    "prix": 600,
     "reserve": false
-
   },
 
   {
-
-    "semaine": "27/12/2026 - 03/01/2027",
-
+    "semaine": "19/12/2026 - 26/12/2026",
     "prix": 850,
-
-    "reserve": true
-
+    "reserve": false
   },
 
   {
-
-    "semaine": "03/01/2027 - 10/01/2027",
-
-    "prix": 650,
-
+    "semaine": "26/12/2026 - 02/01/2027",
+    "prix": 900,
     "reserve": false
+  },
 
-  }
+  {
+    "semaine": "06/02/2027 - 13/02/2027",
+    "prix": 1100,
+    "reserve": false
+  },
+
+  {
+    "semaine": "13/02/2027 - 20/02/2027",
+    "prix": 1100,
+    "reserve": false
+  },
+
+  {
+    "semaine": "20/02/2027 - 27/02/2027",
+    "prix": 1100,
+    "reserve": false 
+  },
+
+  {
+    "semaine": "27/02/2027 - 06/03/2027",
+    "prix": 1100,
+    "reserve": false
+  }  
 
 ]
